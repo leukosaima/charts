@@ -1,8 +1,20 @@
 # Changelog
 
-## 9.3.2 (2024-06-05)
+## 9.3.5 (2024-06-18)
 
-* [bitnami/solr] Bump chart version ([#26862](https://github.com/bitnami/charts/pull/26862))
+* [bitnami/solr] Release 9.3.5 ([#27417](https://github.com/bitnami/charts/pull/27417))
+
+## <small>9.3.4 (2024-06-17)</small>
+
+* [bitnami/solr] Release 9.3.4 (#27289) ([876f64b](https://github.com/bitnami/charts/commit/876f64b612160ea67d6d2dbfdb32399379cffc0b)), closes [#27289](https://github.com/bitnami/charts/issues/27289)
+
+## <small>9.3.3 (2024-06-06)</small>
+
+* [bitnami/solr] Release 9.3.3 (#27018) ([c09a0bb](https://github.com/bitnami/charts/commit/c09a0bb43ab9526405787a2522c672bd795e8c3e)), closes [#27018](https://github.com/bitnami/charts/issues/27018)
+
+## <small>9.3.2 (2024-06-05)</small>
+
+* [bitnami/solr] Bump chart version (#26862) ([50bae78](https://github.com/bitnami/charts/commit/50bae78f14b3bf971007ffb2bc1dacd97e8bd48f)), closes [#26862](https://github.com/bitnami/charts/issues/26862)
 
 ## <small>9.3.1 (2024-06-05)</small>
 

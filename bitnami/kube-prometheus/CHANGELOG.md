@@ -1,8 +1,36 @@
 # Changelog
 
-## 9.3.3 (2024-06-05)
+## 9.5.4 (2024-06-26)
 
-* [bitnami/kube-prometheus] Bump chart version ([#26857](https://github.com/bitnami/charts/pull/26857))
+* [bitnami/kube-prometheus] Release 9.5.4 ([#27551](https://github.com/bitnami/charts/pull/27551))
+
+## <small>9.5.3 (2024-06-24)</small>
+
+* [bitnami/kube-prometheus] :bug: Render imagePullSecrets (#27511) ([b6fbb7e](https://github.com/bitnami/charts/commit/b6fbb7e5051029d8071d80ac618f9381cc1b06e0)), closes [#27511](https://github.com/bitnami/charts/issues/27511)
+
+## <small>9.5.2 (2024-06-18)</small>
+
+* [bitnami/kube-prometheus] Release 9.5.2 (#27405) ([2d55dee](https://github.com/bitnami/charts/commit/2d55dee40c46cd4faf8f05e7772530e6545f690f)), closes [#27405](https://github.com/bitnami/charts/issues/27405)
+
+## <small>9.5.1 (2024-06-17)</small>
+
+* [bitnami/kube-prometheus] Release 9.5.1 (#27268) ([1d26cbd](https://github.com/bitnami/charts/commit/1d26cbd913ed9dd676525e7efca59e7475b384ec)), closes [#27268](https://github.com/bitnami/charts/issues/27268)
+
+## 9.5.0 (2024-06-10)
+
+* [bitnami/kube-prometheus] Add keepDroppedTargets parameter kube-prometheus configuration (#26409) ([8aa5fc8](https://github.com/bitnami/charts/commit/8aa5fc87d5e401a4625f4dfa829416cdebc83f0d)), closes [#26409](https://github.com/bitnami/charts/issues/26409)
+
+## <small>9.4.1 (2024-06-06)</small>
+
+* [bitnami/kube-prometheus] Release 9.4.1 (#27007) ([40c13fe](https://github.com/bitnami/charts/commit/40c13fe226aafbd7c200274871005f4eb36b00c7)), closes [#27007](https://github.com/bitnami/charts/issues/27007)
+
+## 9.4.0 (2024-06-06)
+
+* [bitnami/kube-prometheus] Enable PodDisruptionBudgets (part 2) (#26700) ([2b1b982](https://github.com/bitnami/charts/commit/2b1b98268f24a059ecf745fbe6a9c7ed9b742a2e)), closes [#26700](https://github.com/bitnami/charts/issues/26700)
+
+## <small>9.3.3 (2024-06-05)</small>
+
+* [bitnami/kube-prometheus] Bump chart version (#26857) ([12075c6](https://github.com/bitnami/charts/commit/12075c61aa7fd641337d67943dabb235e5c6e789)), closes [#26857](https://github.com/bitnami/charts/issues/26857)
 
 ## <small>9.3.2 (2024-06-05)</small>
 
